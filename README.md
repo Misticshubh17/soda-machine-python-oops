@@ -35,3 +35,17 @@ SodaMachine/
 
 ```bash
 python main.py
+
+🧠 Concepts Used
+Classes and Objects
+Modular code with multiple files
+While loops and conditionals
+Dictionary and list operations
+Input/output handling
+
+✍️ Author
+Shubham
+GitHub Profile - https://github.com/Misticshubh17
+
+🌟 Contribute
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
